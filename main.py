@@ -17,13 +17,6 @@ for stat in beginning_stats.keys():
 
 run = "y"
 while run == "y":
-    beginning_stats = {
-        "level": 325,
-        "hp": 870,
-        "strength": 771,
-        "defense": 457,
-        "movement": 250
-    }
     options = {
         "lab_ray": None,
         "lab_cookies": None,
