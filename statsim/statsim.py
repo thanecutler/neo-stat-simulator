@@ -1,5 +1,5 @@
 import random
-import padder
+import statsim.padder as padder
 
 class StatSim():
     def __init__(self, days, beginning_stats, options):
